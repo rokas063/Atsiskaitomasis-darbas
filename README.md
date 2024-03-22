@@ -5,7 +5,7 @@ Used: API, MongoDB, Socket, Routes, Router,
 
 
 
-In this code you can find: Register, login, live chat
+In this code you can find: Register, login, add profile picture, can create multiple acounts and chat with another users in real time.
 
 
 
